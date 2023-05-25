@@ -16,7 +16,7 @@
     background-color: #fff;
     width: 40vw;
     height: 50vh;
-    
+    border: 2px dashed black;
 }
 
 h1,h2,p{
